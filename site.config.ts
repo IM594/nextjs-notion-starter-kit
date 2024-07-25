@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Zhaohao Blog',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'https://nextjs-notion-starter-44ui0uyak-im594s-projects.vercel.app/',
   author: 'Zhaohao Lu',
 
   // open graph metadata (optional)
